@@ -1,0 +1,15 @@
+{
+  "name": "explore-backend",
+  "version": "1.0.0",
+  "description": "Exploring Backend development",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Backend",
+    "javascript"
+  ],
+  "author": "Upama Chatterjee",
+  "license": "ISC"
+}
